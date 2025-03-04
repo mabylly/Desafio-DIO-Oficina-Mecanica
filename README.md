@@ -19,6 +19,6 @@ Criar um **esquema conceitual** que represente o funcionamento de uma oficina me
 ## 🏗️ Esquema Conceitual
 O diagrama conceitual pode ser visualizado no seguinte link:
 
-![Diagrama Conceitual](oficina_mecanica.png)
+![Diagrama Conceitual](oficina_mecanica_conceitual.png)
 
 
